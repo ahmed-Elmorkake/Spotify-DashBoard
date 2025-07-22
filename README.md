@@ -45,4 +45,4 @@ If you have any feedback or suggestions, feel free to open an issue or connect w
 
 **Ahmed Mansour** — Data Enthusiast | Power BI Explorer  
 📍 Egypt  
-![Dashboard Preview](images/Screenshot 2025-07-22 200514.png)
+![Dashboard Preview](images/dashboard.png)
