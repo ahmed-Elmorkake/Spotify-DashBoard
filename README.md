@@ -1,28 +1,48 @@
-# Spotify-DashBoard
-Power BI dashboard for Spotify music data — interactive insights on tracks, artists, genres &amp; trends.
-🎧 Spotify Dashboard | Power BI Project
-This repository contains an interactive Spotify Music Dashboard built using Power BI.
-The goal of the project is to analyze and visualize key trends in Spotify tracks, artists, and audio features.
+# 🎧 Spotify Music Dashboard — Power BI Project
 
-📊 Dashboard Insights:
-Top Artists and Top Tracks based on popularity
+Welcome to my **Power BI dashboard project** where I analyze Spotify music data to uncover trends and insights related to tracks, artists, genres, and audio features.
 
-Genre distribution and audio feature comparison
+---
 
-Trends over time (track releases, popularity evolution)
+## 📊 Key Dashboard Features
 
-Interactive filters by artist, genre, and release year
+- 🎵 **Top Artists and Tracks** by popularity  
+- 📅 **Release Trends** over years  
+- 🎚️ **Audio Features**: energy, danceability, tempo, etc.  
+- 🎼 **Genre Distribution**  
+- 🔎 **Interactive filters** for dynamic exploration (year, genre, artist)
 
-🛠 Tools & Technologies:
-Power BI (Data Modeling, DAX, Slicers, Cards, Visuals)
+---
 
-Data Cleaning & Transformation
+## 🛠 Tools & Skills Used
 
-Data Storytelling & Visualization
+- **Power BI** (data model, DAX, slicers, cards, custom visuals)  
+- Data cleaning & transformation  
+- Data storytelling & design
 
-📁 Files:
-spoty.pbix: The Power BI project file
+---
 
-Screenshots of the dashboard for preview
+## 📁 Files Included
 
+- `spoty.pbix` — the full Power BI dashboard project  
+- `images/` — dashboard screenshots (📷 recommended to add a preview)  
 
+---
+
+## 🔗 Preview
+
+> 📷 *Coming soon:* add a screenshot or GIF of the dashboard here
+
+---
+
+## 💬 Feedback & Contributions
+
+If you have any feedback or suggestions, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-elmorkake/)!
+
+---
+
+## 📌 Author
+
+**Ahmed Mansour** — Data Enthusiast | Power BI Explorer  
+📍 Egypt  
+![Dashboard Preview](images/Screenshot 2025-07-22 200514.png)
